@@ -1,4 +1,4 @@
-# 🦟 Singapore-Dengue-Analysis #
+# 🦟 Singapore-Dengue-Analysis 🦟 #
 
 Singapore's tropical climate provides the perfect breeding ground for Aedes mosquitoes. Consequently, the country is highly prone to dengue outbreaks. The project's objective is to deliver actionable insights through **data visualization**, stressing the importance of personal protection and supporting public health strategies. 
 
